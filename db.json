@@ -1,0 +1,16 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "pedro",
+      "precio": 2121,
+      "categoria": "otra"
+    },
+    {
+      "id": "2",
+      "nombre": "Libro de JS",
+      "precio": 15,
+      "categoria": "Libros"
+    }
+  ]
+}
